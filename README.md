@@ -70,8 +70,13 @@ For configuring docker image building see:
 * docker [src/main/docker/Dockerfile] [DOCKER]
 
 
+### Author
+
+Konstantin Konyshev ```konyshev.konstantin@gmail.com``` [(upwork.com)] [Up]
+
    [DS]: <https://github.com/kkonyshev/im360-legacy-ws/tree/master/src/main/resources/application.properties>
    [DOCKER]:  <https://github.com/kkonyshev/im360-legacy-ws/tree/master/src/main/docker/Dockerfile>
    [Dsi]: <https://www.docker.com>
    [Dh]: <https://hub.docker.com/r/kkonyshev/im360-legacy-ws/>
+   [Up]: <https://www.upwork.com/freelancers/~01e7ebce71fba3c1db>
 
